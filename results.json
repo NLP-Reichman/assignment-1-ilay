@@ -1,35 +1,35 @@
 {
   "test_preprocess": {
-    "vocab_length": 1804
+    "vocab_length": 1805
   },
   "test_build_lm": {
-    "english_2_gram_length": 748,
-    "english_3_gram_length": 102,
-    "french_3_gram_length": 102,
-    "spanish_3_gram_length": 102
+    "english_2_gram_length": 747,
+    "english_3_gram_length": 8238,
+    "french_3_gram_length": 8285,
+    "spanish_3_gram_length": 8468
   },
   "test_eval": {
-    "en_on_en": 10.54,
-    "en_on_fr": 23.96,
-    "en_on_tl": 34.06,
-    "en_on_nl": 23.66
+    "en_on_en": 26.75,
+    "en_on_fr": 58.51,
+    "en_on_tl": 70.61,
+    "en_on_nl": 61.43
   },
   "test_match": {
     "df_shape": [
       256,
       4
     ],
-    "en_en_3": 10.537712781597996,
-    "en_tl_3": 34.05859961871031,
-    "en_nl_3": 23.662168512437994
+    "en_en_3": 5.49110996980692,
+    "en_tl_3": 14.514061867020631,
+    "en_nl_3": 10.159408133853082
   },
   "test_generate": {
-    "english_2_gram": "I am\u0178\ud83e\udd11\ud83d\udc82\ud83d\udc59\ub0a8\u2744 \u0420H\uff50\ud83c\udf6d\ud83c\udf82\ud83d\ude4b\ud83e\udd19\u3001\ud83d\udc00\ud83d\udcca\ud5cc\u00f9\u0434",
-    "english_3_gram": "I am\u0178\ud83e\udd11\ud83d\udc82\ud83d\udc59\ub0a8\u2744 \u0420H\uff50\ud83c\udf6d\ud83c\udf82\ud83d\ude4b\ud83e\udd19\u3001\ud83d\udc00\ud83d\udcca\ud5cc\u00f9\u0434",
-    "english_4_gram": "I Love\u0178\ud83e\udd11\ud83d\udc82\ud83d\udc59\ub0a8\u2744 \u0420H\uff50\ud83c\udf6d\ud83c\udf82\ud83d\ude4b\ud83e\udd19\u3001\ud83d\udc00\ud83d\udcca\ud5cc\u00f9\u0434",
-    "spanish_2_gram": "Soy\u0178\ud83e\udd11\ud83d\udc82\ud83d\udc59\ub0a8\u2744 \u0420H\uff50\ud83c\udf6d\ud83c\udf82\ud83d\ude4b\ud83e\udd19\u3001\ud83d\udc00\ud83d\udcca\ud5cc\u00f9\u0434",
-    "spanish_3_gram": "Soy\u0178\ud83e\udd11\ud83d\udc82\ud83d\udc59\ub0a8\u2744 \u0420H\uff50\ud83c\udf6d\ud83c\udf82\ud83d\ude4b\ud83e\udd19\u3001\ud83d\udc00\ud83d\udcca\ud5cc\u00f9\u0434",
-    "french_2_gram": "Je suis\u0178\ud83e\udd11\ud83d\udc82\ud83d\udc59\ub0a8\u2744 \u0420H\uff50\ud83c\udf6d\ud83c\udf82\ud83d\ude4b\ud83e\udd19\u3001\ud83d\udc00\ud83d\udcca\ud5cc\u00f9\u0434",
-    "french_3_gram": "Je suis\u0178\ud83e\udd11\ud83d\udc82\ud83d\udc59\ub0a8\u2744 \u0420H\uff50\ud83c\udf6d\ud83c\udf82\ud83d\ude4b\ud83e\udd19\u3001\ud83d\udc00\ud83d\udcca\ud5cc\u00f9\u0434"
+    "english_2_gram": "I amell1Gige omyo & he't",
+    "english_3_gram": "I amebompirs ans appree ",
+    "english_4_gram": "I Lover. Zo Are froming #M",
+    "spanish_2_gram": "Soy ' Dusos qups  en ce",
+    "spanish_3_gram": "Soy ensanta oto el 200 ",
+    "french_2_gram": "Je suis jeitpu s a male s:/",
+    "french_3_gram": "Je suistreil Her lon in vs "
   }
 }
