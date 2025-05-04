@@ -3,7 +3,7 @@
     "vocab_length": 1804
   },
   "test_build_lm": {
-    "english_2_gram_length": 1804,
+    "english_2_gram_length": 748,
     "english_3_gram_length": 102,
     "french_3_gram_length": 102,
     "spanish_3_gram_length": 102
