@@ -1,6 +1,6 @@
 {
   "test_preprocess": {
-    "vocab_length": 13
+    "vocab_length": 12
   },
   "test_build_lm": {
     "english_2_gram_length": 11,
@@ -9,19 +9,19 @@
     "spanish_3_gram_length": 102
   },
   "test_eval": {
-    "en_on_en": 5.5,
-    "en_on_fr": 10.4,
-    "en_on_tl": 14.53,
-    "en_on_nl": 10.21
+    "en_on_en": 5.51,
+    "en_on_fr": 10.25,
+    "en_on_tl": 14.57,
+    "en_on_nl": 10.19
   },
   "test_match": {
     "df_shape": [
       256,
       4
     ],
-    "en_en_3": 5.50126545275886,
-    "en_tl_3": 14.53175005378316,
-    "en_nl_3": 10.21425570266104
+    "en_en_3": 5.5102142723352205,
+    "en_tl_3": 14.572180094624223,
+    "en_nl_3": 10.193429317721153
   },
   "test_generate": {
     "english_2_gram": "I am164",
