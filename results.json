@@ -1,0 +1,35 @@
+{
+  "test_preprocess": {
+    "vocab_length": 13
+  },
+  "test_build_lm": {
+    "english_2_gram_length": 11,
+    "english_3_gram_length": 102,
+    "french_3_gram_length": 102,
+    "spanish_3_gram_length": 102
+  },
+  "test_eval": {
+    "en_on_en": 5.51,
+    "en_on_fr": 10.25,
+    "en_on_tl": 14.57,
+    "en_on_nl": 10.19
+  },
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_3": 5.5102142723352205,
+    "en_tl_3": 14.572180094624223,
+    "en_nl_3": 10.193429317721153
+  },
+  "test_generate": {
+    "english_2_gram": "I am95332878845399845245",
+    "english_3_gram": "I am9475396<end>",
+    "english_4_gram": "I Love94<start>5<unk><start><start><end>8072<end>",
+    "spanish_2_gram": "Soy92965909636456363192",
+    "spanish_3_gram": "Soy94381142567869019290",
+    "french_2_gram": "Je suis90203481904726967377",
+    "french_3_gram": "Je suis94092191351836715064"
+  }
+}
