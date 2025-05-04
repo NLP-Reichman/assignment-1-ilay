@@ -1,6 +1,6 @@
 {
   "test_preprocess": {
-    "vocab_length": 12
+    "vocab_length": 1804
   },
   "test_build_lm": {
     "english_2_gram_length": 11,
@@ -9,27 +9,27 @@
     "spanish_3_gram_length": 102
   },
   "test_eval": {
-    "en_on_en": 5.51,
-    "en_on_fr": 10.25,
-    "en_on_tl": 14.57,
-    "en_on_nl": 10.19
+    "en_on_en": 10.54,
+    "en_on_fr": 23.96,
+    "en_on_tl": 34.06,
+    "en_on_nl": 23.66
   },
   "test_match": {
     "df_shape": [
       256,
       4
     ],
-    "en_en_3": 5.5102142723352205,
-    "en_tl_3": 14.572180094624223,
-    "en_nl_3": 10.193429317721153
+    "en_en_3": 10.537712781597996,
+    "en_tl_3": 34.05859961871031,
+    "en_nl_3": 23.662168512437994
   },
   "test_generate": {
-    "english_2_gram": "I am164",
-    "english_3_gram": "I am18858077632557845395",
-    "english_4_gram": "I Love1893919755357841792",
-    "spanish_2_gram": "Soy10",
-    "spanish_3_gram": "Soy18463142567869019290",
-    "french_2_gram": "Je suis11203481904726967377",
-    "french_3_gram": "Je suis1884034891276008"
+    "english_2_gram": "I am\u25c4\ub7a8\uff47\ud83d\udeec\u2190\ud83e\udd1d\ud83e\udd44\u0442\ud83c\udf52\ud83d\udd1d\ud83c\udf37\u00fa\uc2ac\ud83c\udf2f\ud83c\udd9474538",
+    "english_3_gram": "I am\u25c4\ub7a8\uff47\ud83d\udeec\u2190\ud83e\udd1d\ud83e\udd44\u0442\ud83c\udf52\ud83d\udd1d\ud83c\udf37\u00fa\uc2ac\ud83c\udf2f\ud83c\udd947\ud83d\ude3a\uc2a4\ud83d\udd35\ud83d\udc3f",
+    "english_4_gram": "I Love\u25c4\ub7a8\uff47\ud83d\udeec\u2190\ud83e\udd1d\ud83e\udd44\u0442\ud83c\udf52\ud83d\udd1d\ud83c\udf37\u00fa\uc2ac\ud83c\udf2f\ud83c\udd947\ud83d\ude3a\uc2a4\ud83d\udd35\ud83d\udc3f",
+    "spanish_2_gram": "Soy\u25c4\ub7a8\uff47\ud83d\udeec\u2190\ud83e\udd1d\ud83e\udd44\u0442\ud83c\udf52\ud83d\udd1d\ud83c\udf37\u00fa\uc2ac\ud83c\udf2f\ud83c\udd94770",
+    "spanish_3_gram": "Soy\u25c4\ub7a8\uff47\ud83d\udeec\u2190\ud83e\udd1d\ud83e\udd44\u0442\ud83c\udf52\ud83d\udd1d\ud83c\udf37\u00fa\uc2ac\ud83c\udf2f\ud83c\udd947\ud83d\ude3a\uc2a4\ud83d\udd35\ud83d\udc3f",
+    "french_2_gram": "Je suis\u25c4\ub7a8\uff47\ud83d\udeec\u2190\ud83e\udd1d\ud83e\udd44\u0442\ud83c\udf52\ud83d\udd1d\ud83c\udf37\u00fa\uc2ac\ud83c\udf2f\ud83c\udd9477726",
+    "french_3_gram": "Je suis\u25c4\ub7a8\uff47\ud83d\udeec\u2190\ud83e\udd1d\ud83e\udd44\u0442\ud83c\udf52\ud83d\udd1d\ud83c\udf37\u00fa\uc2ac\ud83c\udf2f\ud83c\udd947\ud83d\ude3a\uc2a4\ud83d\udd35\ud83d\udc3f"
   }
 }
