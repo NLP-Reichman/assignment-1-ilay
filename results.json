@@ -1,6 +1,6 @@
 {
   "test_preprocess": {
-    "vocab_length": 1805
+    "vocab_length": 1804
   },
   "test_build_lm": {
     "english_2_gram_length": 748,
@@ -9,19 +9,19 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 26.75,
-    "en_on_fr": 58.51,
-    "en_on_tl": 70.61,
-    "en_on_nl": 61.43
+    "en_on_en": 26.74,
+    "en_on_fr": 58.49,
+    "en_on_tl": 70.59,
+    "en_on_nl": 61.41
   },
   "test_match": {
     "df_shape": [
       256,
       4
     ],
-    "en_en_3": 26.74618755875863,
-    "en_tl_3": 70.61221075955987,
-    "en_nl_3": 61.42731075887279
+    "en_en_3": 26.738604803461975,
+    "en_tl_3": 70.58947319844607,
+    "en_nl_3": 61.40858743091159
   },
   "test_generate": {
     "english_2_gram": "I amell1Gige omyo & he't",
